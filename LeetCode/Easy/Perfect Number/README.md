@@ -9,7 +9,7 @@
 | **Tags** | Math |
 | **Link** | [View Problem](https://leetcode.com/problems/perfect-number/) |
 | **Runtime** | 0 ms |
-| **Memory** | 7.7 MB |
+| **Memory** | 7.8 MB |
 
 ## Problem Description
 
