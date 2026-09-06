@@ -7,6 +7,7 @@ All solved problems organized by pattern/category.
 - [Reverse an Array](./GeeksForGeeks/Unknown/Reverse%20an%20Array) - *Unknown*
 
 ## Uncategorized
+- [LCM of two numbers](./GeeksForGeeks/Easy/LCM%20of%20two%20numbers) - *Easy*
 - [Prime Number](./GeeksForGeeks/Easy/Prime%20Number) - *Easy*
 - [Armstrong Numbers](./GeeksForGeeks/Easy/Armstrong%20Numbers) - *Easy*
 - [Perfect Number](./LeetCode/Easy/Perfect%20Number) - *Easy*
