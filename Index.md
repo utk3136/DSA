@@ -7,6 +7,7 @@ All solved problems organized by pattern/category.
 - [Reverse an Array](./GeeksForGeeks/Unknown/Reverse%20an%20Array) - *Unknown*
 
 ## Uncategorized
+- [First Repeating Element](./GeeksForGeeks/Easy/First%20Repeating%20Element) - *Easy*
 - [GCD of Two](./GeeksForGeeks/Easy/GCD%20of%20Two) - *Easy*
 - [LCM of two numbers](./GeeksForGeeks/Easy/LCM%20of%20two%20numbers) - *Easy*
 - [Prime Number](./GeeksForGeeks/Easy/Prime%20Number) - *Easy*
