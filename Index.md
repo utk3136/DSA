@@ -7,6 +7,7 @@ All solved problems organized by pattern/category.
 - [Reverse an Array](./GeeksForGeeks/Unknown/Reverse%20an%20Array) - *Unknown*
 
 ## Uncategorized
+- [Count Odd and Even](./GeeksForGeeks/Easy/Count%20Odd%20and%20Even) - *Easy*
 - [Count Digits in Number](./GeeksForGeeks/Easy/Count%20Digits%20in%20Number) - *Easy*
 - [First Repeating Element](./GeeksForGeeks/Easy/First%20Repeating%20Element) - *Easy*
 - [GCD of Two](./GeeksForGeeks/Easy/GCD%20of%20Two) - *Easy*
