@@ -8,8 +8,8 @@
 | **Solved On** | September 16, 2026 |
 | **Tags** | Math, String, Greedy |
 | **Link** | [View Problem](https://leetcode.com/problems/largest-odd-number-in-string/) |
-| **Runtime** | 6 ms |
-| **Memory** | 19.3 MB |
+| **Runtime** | 3 ms |
+| **Memory** | 17.8 MB |
 
 ## Problem Description
 
