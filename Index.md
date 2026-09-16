@@ -7,6 +7,7 @@ All solved problems organized by pattern/category.
 - [Reverse an Array](./GeeksForGeeks/Unknown/Reverse%20an%20Array) - *Unknown*
 
 ## Uncategorized
+- [Sum of odd and even elements](./GeeksForGeeks/Easy/Sum%20of%20odd%20and%20even%20elements) - *Easy*
 - [Sum of Array](./GeeksForGeeks/Easy/Sum%20of%20Array) - *Easy*
 - [All Divisors of a Number](./GeeksForGeeks/Easy/All%20Divisors%20of%20a%20Number) - *Easy*
 - [Factorial](./GeeksForGeeks/Easy/Factorial) - *Easy*
