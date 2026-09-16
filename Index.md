@@ -7,6 +7,7 @@ All solved problems organized by pattern/category.
 - [Reverse an Array](./GeeksForGeeks/Unknown/Reverse%20an%20Array) - *Unknown*
 
 ## Uncategorized
+- [Max Consecutive Ones](./LeetCode/Easy/Max%20Consecutive%20Ones) - *Easy*
 - [Check Sorted Array](./GeeksForGeeks/Easy/Check%20Sorted%20Array) - *Easy*
 - [Sum of odd and even elements](./GeeksForGeeks/Easy/Sum%20of%20odd%20and%20even%20elements) - *Easy*
 - [Sum of Array](./GeeksForGeeks/Easy/Sum%20of%20Array) - *Easy*
