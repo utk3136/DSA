@@ -7,6 +7,7 @@ All solved problems organized by pattern/category.
 - [Reverse an Array](./GeeksForGeeks/Unknown/Reverse%20an%20Array) - *Unknown*
 
 ## Uncategorized
+- [Length of the Longest Alphabetical Continuous Substring](./LeetCode/Medium/Length%20of%20the%20Longest%20Alphabetical%20Continuous%20Substring) - *Medium*
 - [Largest Odd Number in String](./LeetCode/Easy/Largest%20Odd%20Number%20in%20String) - *Easy*
 - [Palindrome String](./GeeksForGeeks/Easy/Palindrome%20String) - *Easy*
 - [Reverse String](./LeetCode/Easy/Reverse%20String) - *Easy*
